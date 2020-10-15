@@ -1,3 +1,4 @@
 1 - primeira parte do documento
 2 - segunda parte do documentos (lista de alunos ampliada)
 3 - terceira parte do documento (lista inicial de alunos de 2020)
+4 - quarta parte do documento (bug fixes)
