@@ -1,0 +1,4 @@
+Aluno     ----  Aulas ministradas   ---- Frequência
+
+Rodolfo   ----  48                  ---- 46
+Thiago	  ----	48		    ---- 48
